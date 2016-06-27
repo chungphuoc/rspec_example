@@ -1,0 +1,47 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/chungphuoc/workspace/rspec_example/app/controllers/jobs_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/home/chungphuoc/workspace/rspec_example/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/home/chungphuoc/workspace/rspec_example/app/models/job.rb": [
+        1,
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1467017630
+  }
+}
